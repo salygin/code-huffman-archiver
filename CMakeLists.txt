@@ -1,0 +1,9 @@
+add_executable(
+        archiver
+        archiver.cpp
+        encoder.cpp
+        decoder.cpp
+        trie.cpp
+        reader.cpp
+        writer.cpp
+)
